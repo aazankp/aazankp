@@ -31,13 +31,13 @@
 ### 🙋‍♂️ About Me
 
 - 💼 **Software Engineer @ Verge Systems (Since Feb 2024)**
-- 🔧 Specializing in **Laravel**, **REST APIs**, and **System Integrations**
-- 📂 Currently working on: MIS & HRMS applications for SAFCO
-- ☁️ Exploring **Next.js**, **TypeScript**, and **Cloud Platforms**
+- 🔧 Specializing in **PHP**, **Laravel**, **REST APIs**, and **System Integrations**
+- 📂 Currently working on **MIS & HRMS applications** and other **awesome web projects**
+- ☁️ Exploring **Node.js**, **React.js**, and **Cloud Platforms**
 - 🤝 Always open for collaboration and new tech challenges
-- 💬 Ask me about **Laravel, APIs, CRUD systems, or backend architecture**
+- 💬 Ask me about **PHP, Laravel, APIs, CRUD systems, or backend architecture**
 - 📫 Email: [aazank517@gmail.com](mailto:aazank517@gmail.com)
-- ☕ Fun fact: I write cleaner code after a cup of Tea!
+- ☕ Fun fact: I write cleaner code after a cup of tea!
 
 ---
 
@@ -45,13 +45,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aazan-khan-pathan-b11886276/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aazankp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:aazank517@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/aazankp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
