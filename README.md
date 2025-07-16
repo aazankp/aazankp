@@ -1,37 +1,72 @@
-<!-- Modern Minimal GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Aazan Khan</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<!-- Friendly & Animated GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+%E2%9D%A4%EF%B8%8F+Open+Source;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+</p>
+
+<h1 align="center">Hey there! <span>👋</span> I'm <span style="color:#f39c12;">Aazan Khan</span></h1>
+<h3 align="center">🚀 Full Stack Developer | Friendly Coder | Tech Explorer from Pakistan 🇵🇰</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Code+with+a+smile+%F0%9F%98%8A;Learning+never+ends+%F0%9F%92%AB;Let's+connect+and+grow+together+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Awesome Web Projects**
-- 🌱 I’m currently learning **TypeScript, Next.js, and Cloud Computing**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **aazankp@gmail.com**
-- ⚡ Fun fact: **I love solving coding puzzles and exploring new tech!**
+### 🙋‍♂️ A Little About Me
+
+- 🔭 Currently working on **Awesome Web Projects**
+- 🌱 Learning **TypeScript, Next.js, Cloud Computing**
+- 🤝 Always open for friendship and collaboration!
+- 💬 Ask me about **JavaScript, React, Node.js, or Life**
+- 📫 Email: **aazankp@gmail.com**
+- 😄 Fun fact: **I love coding with a cup of tea! ☕**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aazankp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/aazankp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aazankp" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/aazankp" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:aazankp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github" />
+---
+
+### 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github,figma,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aazankp&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aazankp&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### 🕺 A Bit of Animation & Fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aazankp&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aazankp&theme=radical" alt="streak" />
+  <b>Let's learn together, code together, and grow together! 🚀</b><br>
+  <i>“Code with kindness, connect with heart!”</i>
 </p>
