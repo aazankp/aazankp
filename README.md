@@ -1,59 +1,37 @@
-# 👋 Hi, I'm [Your Name]!
+<!-- Modern Minimal GitHub Profile README -->
 
-I'm a passionate **PHP/Laravel Developer** with a knack for building scalable, elegant, and efficient web applications. I specialize in crafting robust backend solutions using **Laravel**, **PHP**, and modern web technologies, with a focus on clean code, performance, and user experience.
+<h1 align="center">Hi 👋, I'm Aazan Khan</h1>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
-🌟 **Currently working on**: Building cutting-edge web applications with Laravel, RESTful APIs, and microservices.  
-🚀 **Looking to collaborate on**: Open-source Laravel projects, API-driven applications, or innovative web solutions.  
-📚 **Learning**: Advanced Laravel features, TDD, and DevOps practices with Docker and CI/CD pipelines.  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-- **PHP** | **Laravel** | **JavaScript** | **HTML5** | **CSS3**
-- **MySQL** | **PostgreSQL** | **SQLite**
-
-### Tools & Platforms
-- **Git** | **Docker** | **Composer** | **NPM**
-- **GitHub Actions** | **AWS** | **Linux**
-
-### Other Skills
-- RESTful APIs | GraphQL | TDD (PHPUnit, Pest)
-- Authentication (JWT, OAuth) | Payment Gateways (Stripe, PayPal)
-- Performance Optimization | Database Design
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+%E2%9D%A4%EF%B8%8F+Open+Source;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
-
----
-
-## 🌟 Featured Projects
-
-### 🏦 [Project Name 1]
-A Laravel-based financial dashboard with real-time analytics and secure payment integration.
-- **Tech**: Laravel, Livewire, Alpine.js, MySQL, Tailwind CSS
-- **Features**: User authentication, role-based access, interactive charts
-- [🔗 View Repository](https://github.com/yourusername/project1) | [🌐 Live Demo](https://example.com)
-
-### 🛒 [Project Name 2]
-An e-commerce platform built with Laravel, featuring a custom CMS and payment processing.
-- **Tech**: Laravel, Vue.js, PostgreSQL, Redis
-- **Features**: Product management, shopping cart, Stripe integration
-- [🔗 View Repository](https://github.com/yourusername/project2) | [🌐 Live Demo](https://example.com)
+- 🔭 I’m currently working on **Awesome Web Projects**
+- 🌱 I’m currently learning **TypeScript, Next.js, and Cloud Computing**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 📫 How to reach me: **aazankp@gmail.com**
+- ⚡ Fun fact: **I love solving coding puzzles and exploring new tech!**
 
 ---
 
-## 📫 Get in Touch
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
-- 🐦 X: [@yourusername](https://x.com/yourusername)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/aazankp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://twitter.com/aazankp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github" />
+</p>
 
 ---
 
-💡 **Fun Fact**: I love optimizing code as much as I enjoy a perfectly brewed cup of coffee! ☕
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aazankp&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aazankp&theme=radical" alt="streak" />
+</p>
