@@ -32,8 +32,8 @@
 
 - 💼 **Software Engineer @ Verge Systems (Since Feb 2024)**
 - 🔧 Specializing in **PHP**, **Laravel**, **REST APIs**, and **System Integrations**
-- 📂 Currently working on: MIS & HRMS applications and **Awesome Web Projects**
-- ☁️ Exploring **Next.js**, **TypeScript**, and **Cloud Platforms**
+- 📂 Currently working on **MIS & HRMS applications** and other **awesome web projects**
+- ☁️ Exploring **Node.js**, **React.js**, and **Cloud Platforms**
 - 🤝 Always open for collaboration and new tech challenges
 - 💬 Ask me about **PHP, Laravel, APIs, CRUD systems, or backend architecture**
 - 📫 Email: [aazank517@gmail.com](mailto:aazank517@gmail.com)
