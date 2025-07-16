@@ -1,7 +1,7 @@
 <!-- Animated & Professional GitHub Profile Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aazan+Khan!;PHP+%26+Laravel+Developer+%7C+Tech+Explorer+%7C+APIs+%26+Integrations+Specialist;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7971E&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aazan+Khan!;Full+Stack+Developer;Tech+Explorer;Friendly+Coder;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,17 +13,17 @@
 </div>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Laravel%20Backend%20Dev-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integration%20Expert-%23009688.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23007ACC.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%23F7971E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Lifelong%20Learner-%2300C853.svg?&style=for-the-badge&logo=code&logoColor=white" />
 </h2>
 
 <p align="center">
-  <b>Creating scalable solutions with code, creativity, and strong backend logic.</b>
+  <b>Building digital experiences with code, creativity, and collaboration.</b>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontAlignY=35&desc=Let's%20Code%20and%20Grow%20Together!&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontAlignY=35&desc=Let%27s%20Code%20and%20Grow%20Together!&descAlignY=60&animation=twinkling" />
 </div>
 
 ---
@@ -31,13 +31,13 @@
 ### 🙋‍♂️ About Me
 
 - 💼 **Software Engineer @ Verge Systems (Since Feb 2024)**
-- 🔧 Specializing in **PHP**, **Laravel**, **REST APIs**, and **System Integrations**
-- 📂 Currently working on **MIS & HRMS applications** and other **awesome web projects**
-- ☁️ Exploring **Node.js**, **React.js**, and **Cloud Platforms**
+- 🔧 Specializing in **Laravel**, **REST APIs**, and **System Integrations**
+- 📂 Currently working on: MIS & HRMS applications for SAFCO
+- ☁️ Exploring **Next.js**, **TypeScript**, and **Cloud Platforms**
 - 🤝 Always open for collaboration and new tech challenges
-- 💬 Ask me about **PHP, Laravel, APIs, CRUD systems, or backend architecture**
+- 💬 Ask me about **Laravel, APIs, CRUD systems, or backend architecture**
 - 📫 Email: [aazank517@gmail.com](mailto:aazank517@gmail.com)
-- ☕ Fun fact: I write cleaner code after a cup of tea!
+- ☕ Fun fact: I write cleaner code after a cup of Tea!
 
 ---
 
@@ -45,13 +45,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aazan-khan-pathan-b11886276/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:aazank517@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/aazankp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:aazank517@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -92,15 +92,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aazankp&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aazankp&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
-### 🕺 Just for Fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
 </p>
 
 ---
