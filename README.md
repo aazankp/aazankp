@@ -1,15 +1,30 @@
-<!-- Friendly & Animated GitHub Profile README -->
+<!-- Animated & Professional GitHub Profile Header -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aazan+Khan!;Full+Stack+Developer+%7C+Tech+Explorer+%7C+Friendly+Coder;Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hey there! <span>👋</span> I'm <span style="color:#f39c12;">Aazan Khan</span></h1>
-<h3 align="center">🚀 Full Stack Developer | Friendly Coder | Tech Explorer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Code+with+a+smile+%F0%9F%98%8A;Learning+never+ends+%F0%9F%92%AB;Let's+connect+and+grow+together+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" style="margin-bottom:-10px;" />
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23007ACC.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Enthusiast-%23F7971E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-%2300C853.svg?&style=for-the-badge&logo=code&logoColor=white" />
+</h2>
+
+<p align="center">
+  <b>Building digital experiences with code, creativity, and collaboration.</b>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontAlignY=35&desc=Let%27s%20Code%20and%20Grow%20Together!&descAlignY=60&animation=twinkling" />
+</div>
 
 ---
 
@@ -57,7 +72,12 @@
 
 ---
 
+### 🕺 A Bit of Animation & Fun
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+</p>
 
 ---
 
