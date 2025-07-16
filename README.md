@@ -19,11 +19,11 @@
 </h2>
 
 <p align="center">
-  <b>Building digital experiences with code, creativity, and collaboration.</b>
+  <b>Creating scalable solutions with code, creativity, and strong backend logic.</b>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontAlignY=35&desc=Let%27s%20Code%20and%20Grow%20Together!&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontAlignY=35&desc=Let's%20Code%20and%20Grow%20Together!&descAlignY=60&animation=twinkling" />
 </div>
 
 ---
@@ -37,7 +37,7 @@
 - 🤝 Always open for collaboration and new tech challenges
 - 💬 Ask me about **PHP, Laravel, APIs, CRUD systems, or backend architecture**
 - 📫 Email: [aazank517@gmail.com](mailto:aazank517@gmail.com)
-- ☕ Fun fact: I write cleaner code after a cup of tea!
+- ☕ Fun fact: I write cleaner code after a cup of Tea!
 
 ---
 
@@ -45,13 +45,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aazan-khan-pathan-b11886276/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aazank517@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/aazankp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
