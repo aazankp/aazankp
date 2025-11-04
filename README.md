@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome!&fontSize=40&fontAlignY=35&desc=Let's%20Code%20and%20Grow%20Together!&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api type=rect&color=0:F7971E,100:4A148C&height=120&section=header&text=Welcome!&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Let's%20Code%20and%20Grow%20Together!&descAlignY=60&animation=twinkling" />
 </div>
 
 ---
